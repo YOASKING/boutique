@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "T-shirt",
+    "price": 19,
+    "info": "Coton biologique",
+    "description": "T-shirt droit en jersey de coton biologique. Une pièce de tous les jours."
+  },
+  {
+    "id": 2,
+    "name": "Sweat",
+    "price": 39,
+    "info": "Molleton épais",
+    "description": "Sweat à col rond en molleton épais. Confortable, sans logo visible."
+  },
+  {
+    "id": 3,
+    "name": "Casquette",
+    "price": 15,
+    "info": "Broderie ton sur ton",
+    "description": "Casquette à six panneaux, visière souple, broderie discrète."
+  },
+  {
+    "id": 4,
+    "name": "Cabas",
+    "price": 12,
+    "info": "Toile solide",
+    "description": "Cabas en toile épaisse, anses longues. Fait pour un usage quotidien."
+  },
+  {
+    "id": 5,
+    "name": "Chaussettes",
+    "price": 8,
+    "info": "Lot de deux paires",
+    "description": "Chaussettes côtelées, lot de deux paires. Coton peigné."
+  },
+  {
+    "id": 6,
+    "name": "Tasse",
+    "price": 14,
+    "info": "Céramique mate",
+    "description": "Tasse en céramique mate, 30 cl. Forme simple, bord fin."
+  }
+]

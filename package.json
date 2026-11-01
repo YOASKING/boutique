@@ -1,0 +1,10 @@
+{
+  "name": "boutique",
+  "private": true,
+  "scripts": {
+    "start": "npm run start --prefix back",
+    "dev": "npm run dev --prefix front",
+    "dev:front": "npm run dev --prefix front",
+    "dev:back": "npm run start --prefix back"
+  }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "email": "client@boutique.fr",
+    "hash": "$2b$10$M0vUg7DT/l5P5FUVm.SqvuWj0NYZCNU/oyS2PamtnNHnjJJ5sq4gu",
+    "role": "client"
+  },
+  {
+    "email": "rtyu@fgtyu.com",
+    "hash": "$2b$10$ynXos7TeJzMIz74rGA41Cuj93ldKagMMCnpeY2DV8OpdsetUce.si",
+    "role": "client"
+  },
+  {
+    "email": "admin@boutique.fr",
+    "hash": "$2b$10$JyPYS69KK5BeVHEYTJyWzuZjABgnnevlKpdY3ap07Oxrw5yYTFgCy",
+    "role": "admin"
+  },
+  {
+    "email": "paulchristyoas@gmail.com",
+    "hash": "$2b$10$/Men0oT2GkurGtm675VWXer.VEB63e4qDYqtsrdbLa3FDHQN6XtsC",
+    "role": "superadmin"
+  }
+]

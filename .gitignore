@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.vite/
+back/uploads/
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+Cours-React-Boutique.pdf
+Fiche-revision-React.pdf
